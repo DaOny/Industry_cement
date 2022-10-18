@@ -6,3 +6,5 @@ Cualquier duda, sugerencia o error, contactar via github en el Link
 Mod that add new items of construction , block rectangular , cement, chains of construction and other more things.
 Any questions, suggestions or errors, contact github
 
+Cualquier tipo de proyecto contactame por discord
+
