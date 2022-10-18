@@ -48,8 +48,6 @@ Cualquier duda, sugerencia o error, contactar via github en el Link
 #English
 Mod that add new items of construction , block rectangular , cement, chains of construction and other more things.
 Any questions, suggestions or errors, contact github
-
-
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.cementiper]] #optional
